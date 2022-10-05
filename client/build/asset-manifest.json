@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.349a368a.chunk.css",
+    "main.js": "/static/js/main.b2d9a4bc.chunk.js",
+    "main.js.map": "/static/js/main.b2d9a4bc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.08c7ff0c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.08c7ff0c.js.map",
+    "static/js/2.357a260a.chunk.js": "/static/js/2.357a260a.chunk.js",
+    "static/js/2.357a260a.chunk.js.map": "/static/js/2.357a260a.chunk.js.map",
+    "static/js/3.ed37f69a.chunk.js": "/static/js/3.ed37f69a.chunk.js",
+    "static/js/3.ed37f69a.chunk.js.map": "/static/js/3.ed37f69a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.349a368a.chunk.css.map": "/static/css/main.349a368a.chunk.css.map",
+    "static/js/2.357a260a.chunk.js.LICENSE.txt": "/static/js/2.357a260a.chunk.js.LICENSE.txt",
+    "static/media/GIF_Mundo_Banderas.1a09e30f.gif": "/static/media/GIF_Mundo_Banderas.1a09e30f.gif",
+    "static/media/Nueva.module.css": "/static/media/actividad3.69cc6bb8.jpg",
+    "static/media/Detalle.module.css": "/static/media/detalle.9c135a88.jpg",
+    "static/media/Inicio.module.css": "/static/media/paises.b65e2aa3.jpg",
+    "static/media/Home.module.css": "/static/media/paisesmundo.1b1acae0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08c7ff0c.js",
+    "static/js/2.357a260a.chunk.js",
+    "static/css/main.349a368a.chunk.css",
+    "static/js/main.b2d9a4bc.chunk.js"
+  ]
+}

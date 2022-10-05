@@ -1,0 +1,33 @@
+.home {
+  background-image: url("../Img/paisesmundo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.paises {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4rem;
+  row-gap: 3rem;
+  margin-top: 2rem;
+  margin-bottom: 4rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.barras{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 1rem;
+}
